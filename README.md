@@ -1,1 +1,1 @@
-# i-love-kittens
+# student-bio
